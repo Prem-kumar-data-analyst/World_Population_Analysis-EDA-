@@ -6,8 +6,11 @@ The objective is to analyze population trends, growth patterns, country-wise dis
 
 **This project demonstrates practical skills in:**
 Data cleaning
+
 Data visualization
+
 Insight generation
+
 Trend analysis
 
 **🎯 Objectives**
