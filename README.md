@@ -3,6 +3,7 @@
 **📌 Project Overview**
 
 This project focuses on performing Exploratory Data Analysis (EDA) on global population data.
+
 The objective is to analyze population trends, growth patterns, country-wise distribution, and key demographic insights using data visualization and statistical techniques.
 
 **This project demonstrates practical skills in:**
