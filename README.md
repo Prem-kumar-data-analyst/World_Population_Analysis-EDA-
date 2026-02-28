@@ -7,9 +7,9 @@ The objective is to analyze population trends, growth patterns, country-wise dis
 
 **This project demonstrates practical skills in:**
 
-Data cleaning
-Data visualization
-Insight generation
+Data cleaning,
+Data visualization,
+Insight generation,
 Trend analysis
 
 **🎯 Objectives**
@@ -22,20 +22,20 @@ Generate meaningful insights using visualizations.
 
 **🛠️ Tools & Technologies Used**
 
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Jupyter Notebook
+Python,
+Pandas,
+NumPy,
+Matplotlib,
+Seaborn,
+Jupyter Notebook,
 
 **📊 Key Analysis Performed**
 
-✔ Data Cleaning & Preprocessing
-✔ Handling Missing Values
-✔ Country-wise Population Comparison
-✔ Year-wise Growth Trend Analysis
-✔ Visualization using Bar Charts, Line Plots & Heatmaps
+✔ Data Cleaning & Preprocessing.
+✔ Handling Missing Values.
+✔ Country-wise Population Comparison.
+✔ Year-wise Growth Trend Analysis.
+✔ Visualization using Bar Charts, Line Plots & Heatmaps.
 
 **📈 Insights Generated**
 
